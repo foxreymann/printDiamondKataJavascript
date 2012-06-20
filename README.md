@@ -1,4 +1,6 @@
 printDiamondKataJavascript
 ==========================
 
-http://cyber-dojo.com/
+from: http://cyber-dojo.com/
+
+to run: node *Test.js
